@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R4dpunk
 - 👀 I’m interested in coding(obviously), video games, hiking, abnd photography
-- 🌱 I’m currently learning MASM, and automation testing
+- 🌱 I’m currently learning Java, Python, and automation testing
 - 💞️ I’m looking to collaborate on anything really, I love to learn and gain new XP(experience)
 - 📫 How to reach me: email me or connect here
 - 😄 Pronouns: He/Him
